@@ -3,9 +3,9 @@
  * main - Entry
  * Return: always 0
  */
-int main(void) 
+int main(void)
 {
 	puts("\"Programming is like building a multi
 lingual puzzle");
 	return (0);
-} 	
+}
