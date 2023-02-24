@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main -main function
- *_putchar: print the alphabets putchar
- * Return: always 0
+ * main - print _putchar
+ * is written by Hloni
+ * Return: 0
  */
 
 int main(void)
@@ -18,4 +18,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-

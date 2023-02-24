@@ -4,8 +4,8 @@
  * starting from 00:00 to 23:59
  */
 void jack_bauer(void)
-while (i < 24)
-while (j < 60)
+while (i < 24);
+while (j < 60);
 _putchar((i / 10) + '0');
 _putchar((i % 10) + '0');
 _putchar(':');
@@ -17,4 +17,3 @@ j++;
 i++;
 }
 }
-
